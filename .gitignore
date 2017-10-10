@@ -39,3 +39,14 @@
 
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
+.gitignore
+README.md
+app/
+bin/
+composer.json
+composer.lock
+phpunit.xml.dist
+src/
+tests/
+var/
+web/
